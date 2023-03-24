@@ -1,4 +1,11 @@
-### Hi there 👋
+ Hey, I am Leandro 👋
+ 
+ I am a software engineer with passion for .NET ecosystem and REST APIs.😄
+ Nowadays, besides my work I have created video courses 💻, helping the .NET community 😄.
+ 
+ Out of tech world, I am keen on gastronomy 😋 and books 📚. Besides which, I do love practise sport 🏃🏻 to keep my body and mind streentgh. 💪😄
+ 
+ Cheers, Leandro :) 
 
 <!--
 **OLeandroRodrigues/OLeandroRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
