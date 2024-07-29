@@ -1,7 +1,7 @@
  Hey, I am Leandro 👋
  
- I am a software engineer with passion for .NET ecosystem and REST APIs.😄
- Nowadays, besides my work I have created video courses 💻, helping the .NET community 😄.
+ I am a software engineer with passion for .NET, Java, Python and Software Architecture.😄
+ Nowadays, besides my work I have created video courses 💻, helping people who is learning how to code 😄.
  
  Out of tech world, I am keen on gastronomy 😋 and books 📚. Besides which, I do love practise sport 🏃🏻 to keep my body and mind streentgh. 💪😄
  
