@@ -4,6 +4,8 @@
  
  Out of tech world, I am keen on gastronomy 😋 and books 📚. Besides which, I do love practise sport 🏃🏻 to keep my body and mind strentgh. 💪😄
  
+ I use this github to share my studies and discoveries in the field of Artificial Intelligence Engineering.
+ 
  Cheers, Leandro :) 
 
 <!--
