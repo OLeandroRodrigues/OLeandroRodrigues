@@ -1,24 +1,32 @@
- Hey, I am Leandro 👋
- 
- I am a software engineer with passion for .NET, Java, Python and Software Architecture.😄
- 
- Out of tech world, I am keen on gastronomy 😋 and books 📚. Besides which, I do love practise sport 🏃🏻 to keep my body and mind strentgh. 💪😄
- 
- I use this github to share my studies and discoveries in the field of Artificial Intelligence Engineering.
- 
- Cheers, Leandro :) 
+# Hey, I am Leandro 👋  
 
-<!--
-**OLeandroRodrigues/OLeandroRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer** with passion for **.NET, Java, Python, and Software Architecture**.  
+Currently, I’m pursuing **Applied & Computational Mathematics at USP** and preparing for **Big Tech opportunities**, with a strong focus on **Artificial Intelligence Engineering**. 🚀  
 
-Here are some ideas to get you started:
+Outside the tech world, I’m keen on **gastronomy** 😋 and **books** 📚. I also love to **practice sports** 🏃🏻 to keep my body and mind strong. 💪  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔎 Areas of Focus  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📊 Applied Statistics & Data Science  
+- ⚡ Algorithms & Data Structures  
+- 🏗️ Software Engineering & Architecture  
+
+---
+
+## 📂 Featured Repositories  
+- 📚 [ia-portfolio](https://github.com/oleandrorodrigues/ia-portfolio) → AI projects and experiments  
+- ⚡ [algorithms-preparation](https://github.com/oleandrorodrigues/algorithms-preparation) → Algorithms, proofs, and complexity analysis  
+- 📊 [applied-stats-playground](https://github.com/oleandrorodrigues/applied-stats-playground) → Applied statistics experiments
+- ✍️ [my-tech-articles](https://github.com/oleandrorodrigues/my-tech-articles) → Technical articles and essays  
+
+---
+
+📬 **Contact me**  
+- [LinkedIn](https://www.linkedin.com/in/oleandrorodrigues)  
+- [Medium](https://medium.com/@oleandroprodrigues)  
+- Email: **oleandroprodrigues@gmail.com** 
+
+Cheers,  
+**Leandro** 😄
