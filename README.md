@@ -24,7 +24,7 @@ Outside the tech world, I’m keen on **gastronomy** 😋 and **books** 📚. I 
 ---
 
 📬 **Contact me**  
-- [LinkedIn](https://www.linkedin.com/in/oleandrorodrigues)  
+- [LinkedIn](https://www.linkedin.com/in/leandrorodrigueso/)  
 - [Medium](https://medium.com/@oleandroprodrigues)  
 - Email: **oleandroprodrigues@gmail.com** 
 
