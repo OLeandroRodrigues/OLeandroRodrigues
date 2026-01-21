@@ -1,9 +1,12 @@
-# Hey, I am Leandro 👋  
+# Hi, I am Leandro 👋  
 
-I’m a **Software Engineer** with passion for **.NET, Java, Python, and Software Architecture**.  
-Currently, I’m pursuing **Applied & Computational Mathematics at USP** and preparing for **Big Tech opportunities**, with a strong focus on **Artificial Intelligence Engineering**. 🚀  
+**Software Engineer** with experience in **system design, distributed systems, and architectural trade-offs.**
+Focused on **.NET, Java, and Python.**
 
-Outside the tech world, I’m keen on **gastronomy** 😋 and **books** 📚. I also love to **practice sports** 🏃🏻 to keep my body and mind strong. 💪  
+Currently pursuing **Applied & Computational Mathematics** at the **University of São Paulo (USP)**, with a strong interest in **large-scale systems** and **Artificial Intelligence engineering.** 🚀
+
+Outside the tech world, I enjoy cinema 🎬, theater 🎭, and books 📚, and I practice boxing 🥊 to stay **sharp**, **disciplined**, and **resilient**. 💪
+
 
 ---
 
@@ -29,4 +32,4 @@ Outside the tech world, I’m keen on **gastronomy** 😋 and **books** 📚. I 
 - Email: **oleandroprodrigues@gmail.com** 
 
 Cheers,  
-**Leandro** 😄
+Leandro
