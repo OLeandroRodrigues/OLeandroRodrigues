@@ -1,9 +1,9 @@
 # Hi, I am Leandro 👋  
 
-**Software Engineer** with experience in **system design, distributed systems, and architectural trade-offs.**
+**Software Engineer** focused on backend **systems, system design, and architectural trade-offs in distributed environments.**<br>
 Focused on **.NET, Java, and Python.**
 
-Currently pursuing **Applied & Computational Mathematics** at the **University of São Paulo (USP)**, with a strong interest in **large-scale systems** and **Artificial Intelligence engineering.** 🚀
+**Applied & Computational Mathematics** student at the **University of São Paulo (USP)**, with strong interest in large-scale systems and AI. 🚀
 
 Outside the tech world, I enjoy cinema 🎬, theater 🎭, and books 📚, and I practice boxing 🥊 to stay **sharp**, **disciplined**, and **resilient**. 💪
 
