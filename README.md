@@ -11,19 +11,18 @@ Outside the tech world, I enjoy cinema 🎬, theater 🎭, and books 📚, and I
 ---
 
 ## 🔎 Areas of Focus  
+- ⚡ Algorithms & Data Structures  
 - 🤖 Artificial Intelligence & Machine Learning  
 - 📊 Applied Statistics & Data Science  
-- ⚡ Algorithms & Data Structures  
 - 🏗️ Software Engineering & Architecture  
 
 ---
 
 ## 📂 Featured Repositories  
-- 📚 [ia-portfolio](https://github.com/oleandrorodrigues/ia-portfolio) → AI projects and experiments  
-- ⚡ [algorithms-preparation](https://github.com/oleandrorodrigues/algorithms-preparation) → Algorithms, proofs, and complexity analysis  
-- 📊 [applied-stats-playground](https://github.com/oleandrorodrigues/applied-stats-playground) → Applied statistics experiments
+- ⚡ [algorithms-preparation](https://github.com/oleandrorodrigues/algorithms-preparation) → Algorithms, proofs, and complexity analysis focused on interview preparation and fundamentals
+- 📚 [ia-portfolio](https://github.com/oleandrorodrigues/ia-portfolio) → AI projects and experiments   
+- 📊 [applied-stats-playground](https://github.com/oleandrorodrigues/applied-stats-playground) → Practical experiments in applied statistics and data analysis
 - ✍️ [my-tech-articles](https://github.com/oleandrorodrigues/my-tech-articles) → Technical articles and essays  
-
 ---
 
 📬 **Contact me**  
