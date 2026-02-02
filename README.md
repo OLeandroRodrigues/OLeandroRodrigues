@@ -19,6 +19,7 @@ Outside the tech world, I enjoy cinema 🎬, theater 🎭, and books 📚, and I
 ---
 
 ## 📂 Featured Repositories  
+- 🧠 [discrete-math-for-engineers](https://github.com/OLeandroRodrigues/discretemathsforengineers.com) → Interactive notes on discrete mathematics (graph theory), combining formal definitions, intuitive explanations, and visual examples
 - ⚡ [algorithms-preparation](https://github.com/oleandrorodrigues/algorithms-preparation) → Algorithms, proofs, and complexity analysis focused on interview preparation and fundamentals
 - 📚 [ia-portfolio](https://github.com/oleandrorodrigues/ia-portfolio) → AI projects and experiments   
 - 📊 [applied-stats-playground](https://github.com/oleandrorodrigues/applied-stats-playground) → Practical experiments in applied statistics and data analysis
