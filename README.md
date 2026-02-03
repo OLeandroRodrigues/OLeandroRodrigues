@@ -28,7 +28,7 @@ Outside the tech world, I enjoy cinema 🎬, theater 🎭, and books 📚, and I
 
 📬 **Contact me**  
 - [LinkedIn](https://www.linkedin.com/in/leandrorodrigueso/)  
-- [Medium](https://medium.com/@oleandroprodrigues)  
+- Website: https://discretemathsforengineers.com
 - Email: **oleandroprodrigues@gmail.com** 
 
 Cheers,  
