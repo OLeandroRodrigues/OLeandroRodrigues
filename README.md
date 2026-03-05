@@ -19,9 +19,9 @@ Outside the tech world, I enjoy cinema 🎬, theater 🎭, and books 📚, and I
 ---
 
 ## 📂 Featured Repositories  
-- 🧠 [discrete-math-for-engineers](https://github.com/OLeandroRodrigues/discretemathsforengineers.com) → Interactive notes on discrete mathematics (graph theory), combining formal definitions, intuitive explanations, and visual examples
+- 🤖 [aigora](https://github.com/AigoraCorporation/aigora) → AI tutoring platform for mathematics, guiding students from fundamentals to advanced problem solving through structured curricula and adaptive learning
+- 🧠 [discrete-math-for-engineers](https://github.com/OLeandroRodrigues/discretemathsforengineers.com) → Interactive learning platform for discrete mathematics, combining formal definitions, intuition, and visual explanations
 - ⚡ [algorithms-preparation](https://github.com/oleandrorodrigues/algorithms-preparation) → Algorithms, proofs, and complexity analysis focused on interview preparation and fundamentals
-- 📚 [ia-portfolio](https://github.com/oleandrorodrigues/ia-portfolio) → AI projects and experiments   
 - 📊 [applied-stats-playground](https://github.com/oleandrorodrigues/applied-stats-playground) → Practical experiments in applied statistics and data analysis
 - ✍️ [my-tech-articles](https://github.com/oleandrorodrigues/my-tech-articles) → Technical articles and essays  
 ---
